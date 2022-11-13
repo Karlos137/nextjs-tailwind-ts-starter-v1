@@ -1,6 +1,6 @@
 # Next.js & TailwindCSS starter template
 
-A starter for Next.js (v13) and TailwindCSS (v3).
+A starter for Next.js (v13) and Tailwind CSS (v3).
 
 Keywords:
 
